@@ -1,0 +1,44 @@
+IDE
+
+pycharm
+Editor
+Herramientas
+   Gestion 
+   Desarrollo
+Visual Studio code
+Notebook
+Para las clases se nombran con la primera letra mayúscula
+
+Juan = Persona  ## Juan es una clase
+
+Juan = Persona  ## Juan es de tipo persona, se instancia con parentesis
+type(Juan)
+-------------------------------------------
+Clase  
+     Atibutos ejemplo: peso, edad,estatura
+           Estructura de datos
+                       Listas
+                       Diccionarios
+                       Tuplas
+           int, bool
+           Class
+           objetos
+     Metodo/funciones= acciones
+---------------------------------------
+
+def _init(self) metodo contructor iniciador
+          self propios atributos de la clase
+----------------------------------------
+def _init(self, nombre, edad) se definen parametros
+mi atributo propio de la clase
+----------------------------------------
+"texto {}" . format(self.especie)
+          
+-----------------------------------------
+@property
+decoradores @ permiten cambiar el comportamiento del metodo
+
+@temperatura.setter me economiza ponerle los parentesis
+
+raise ValueError = alarmas
+
